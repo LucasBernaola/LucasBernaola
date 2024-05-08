@@ -12,7 +12,7 @@
 - 🌱 I’m currently work in Web Development
 - 🌱 I’m self-taught person
 - 🌱 I've 9+ months of professional experience worked at E-Learning Start Up
-- 🌱 I've professional practices experience at [No Country](https://www.nocountry.tech/) and [Ademass](https://ademass.com/) too.
+- 🌱 I've professional practices experience at [No Country](https://www.nocountry.tech/) and [Ademass](https://ademass.com/).
 - 📫 How to reach me **bernadev7@gmail.com*
 
 <h3 align="left">Or:</h3>
